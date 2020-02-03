@@ -23,9 +23,9 @@
 <h1>John Writing</h1>
 
 <ul>
-    
-        <li><a href="my_biscuit.html">My Biscuit</a></li>
-    
+    {% for piece in pieces: %}
+        <li><a href="{{piece.html_path}}">{{piece.title}}</a></li>
+    {% endfor %}
 </ul>
 
 </html>

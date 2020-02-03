@@ -1,13 +1,16 @@
 #! /usr/bin/env python
+import cgi
 import os
 import subprocess
 from html.parser import HTMLParser
 import jinja2
+import markdown
+
 
 CONTENT_PATH = '../content'
-INTERMEDIATE_HTML_PATH = 'generated/'
 PIECE_TEMPLATE_PATH = '../site/templates/piece.html.template'
-DESTINATION_HTML_PATH = '../site/html/content'
+INDEX_TEMPLATE_PATH = '../site/templates/index.html.template'
+DESTINATION_HTML_PATH = '../site/html/'
 
 # create a subclass and override the handler methods
 
@@ -15,32 +18,38 @@ DESTINATION_HTML_PATH = '../site/html/content'
 class MyHTMLParser(HTMLParser):
     start_position = (0, 0)
     end_position = (0, 0)
+    getting_title = False
+    title = ""
 
     def handle_starttag(self, tag, attrs):
         if tag == "body":
             self.start_position = (self.getpos()[0], self.getpos()[1]+6)
+            return
+        if tag == "h1":
+            self.getting_title = True
 
     def handle_endtag(self, tag):
         if tag == "body":
             self.end_position = (self.getpos()[0], self.getpos()[1])
 
     def handle_data(self, data):
-        pass
+        if self.getting_title:
+            self.title = data
+            self.getting_title = False
 
 
 class Piece():
-    def __init__(self, title, body):
+    def __init__(self, title, body, html_path):
         self.title = title
         self.body = body
+        self.html_path = html_path
 
 
-def _extract_file_selection(file, start_position, end_position):
+def _extract_text_selection(text, start_position, end_position):
     output = ""
-    with open(file) as f:
-        text = f.readlines()
 
     # This is so extremely stupid I am ashamed
-    for line_index, line in enumerate(text):
+    for line_index, line in enumerate(text.split('\n')):
         line_index_one_indexed = line_index + 1
         if line_index_one_indexed == start_position[0]:
             output += line[start_position[1]:]
@@ -51,32 +60,36 @@ def _extract_file_selection(file, start_position, end_position):
     return output
 
 
-def _generate_intermediate_html(input_markdown, output_html):
-    subprocess.run(["md-to-html", "--input", input_markdown,
-                    "--output", output_html], check=True)
+def _generate_intermediate_html(input_markdown):
+    input_markdown_string = open(input_markdown, encoding="utf8").read()
+    return markdown.markdown(input_markdown_string, output_format="html5")
 
 
-def _generate_destination_html_from_template(intermediate_html, destination_html):
-    # instantiate the parser and fed it some HTML
+def _extract_piece(intermediate_html, filename):
     parser = MyHTMLParser()
-    html_string = open(intermediate_html).read()
-    parser.feed(html_string)
-    print("Grabbing the text between {} and {}".format(
-        parser.start_position, parser.end_position))
-    extracted_body = _extract_file_selection(
-        intermediate_html, parser.start_position, parser.end_position).strip()
-    print("Extracted body: \n{}".format(extracted_body))
+    parser.feed(intermediate_html)
+    return Piece(parser.title, intermediate_html, filename)
 
-    piece = Piece("Test Title", extracted_body)
+
+def _generate_destination_html_from_template(piece, pieces, destination_html):
     template = open(PIECE_TEMPLATE_PATH).read()
-    rendered_html = jinja2.Template(template).render(piece=piece)
+    rendered_html = jinja2.Template(
+        template).render(piece=piece, pieces=pieces)
 
-    with open(os.path.join(destination_html), "w") as f:
+    with open(os.path.join(destination_html), "w", encoding="utf8") as f:
+        f.write(rendered_html)
+
+
+def _generate_homepage_from_template(pieces, destination_html):
+    template = open(INDEX_TEMPLATE_PATH).read()
+    rendered_html = jinja2.Template(template).render(pieces=pieces)
+
+    with open(os.path.join(destination_html), "w", encoding="utf8") as f:
         f.write(rendered_html)
 
 
 if __name__ == "__main__":
-    output_files = []
+    pieces = []
 
     for r, d, f in os.walk(CONTENT_PATH):
         for markdown_filename in f:
@@ -84,12 +97,22 @@ if __name__ == "__main__":
                 input_markdown = os.path.join(r, markdown_filename)
                 input_markdown_no_extension = markdown_filename[:markdown_filename.find(
                     '.md')]
-                intermediate_output_html = os.path.join(
-                    INTERMEDIATE_HTML_PATH, "{}.html".format(input_markdown_no_extension))
+                piece_html_filename = "{}.html".format(
+                    input_markdown_no_extension)
                 destination_html = os.path.join(
-                    DESTINATION_HTML_PATH, "{}.html".format(input_markdown_no_extension))
+                    DESTINATION_HTML_PATH, piece_html_filename)
 
-                _generate_intermediate_html(
-                    input_markdown, intermediate_output_html)
-                _generate_destination_html_from_template(
-                    intermediate_output_html, destination_html)
+                intermediate_output_html = _generate_intermediate_html(
+                    input_markdown)
+
+                print("Generated html: {}".format(intermediate_output_html))
+                piece = _extract_piece(
+                    intermediate_output_html, piece_html_filename)
+                pieces.append(piece)
+
+    for piece in pieces:
+        _generate_destination_html_from_template(
+            piece, pieces, destination_html)
+
+    _generate_homepage_from_template(
+        pieces, os.path.join(DESTINATION_HTML_PATH, "index.html"))
