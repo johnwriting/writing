@@ -10,7 +10,7 @@ import markdown
 CONTENT_PATH = '../content'
 PIECE_TEMPLATE_PATH = '../site/templates/piece.html.template'
 INDEX_TEMPLATE_PATH = '../site/templates/index.html.template'
-DESTINATION_HTML_PATH = '../site/html/'
+DESTINATION_HTML_PATH = '../docs'
 
 # create a subclass and override the handler methods
 
