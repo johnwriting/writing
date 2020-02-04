@@ -99,8 +99,6 @@ if __name__ == "__main__":
                     '.md')]
                 piece_html_filename = "{}.html".format(
                     input_markdown_no_extension)
-                destination_html = os.path.join(
-                    DESTINATION_HTML_PATH, piece_html_filename)
 
                 intermediate_output_html = _generate_intermediate_html(
                     input_markdown)
@@ -111,6 +109,9 @@ if __name__ == "__main__":
                 pieces.append(piece)
 
     for piece in pieces:
+        destination_html = os.path.join(
+            DESTINATION_HTML_PATH, piece.html_path)
+
         _generate_destination_html_from_template(
             piece, pieces, destination_html)
 
