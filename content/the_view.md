@@ -20,7 +20,7 @@ They set off on the trailhead, leaving tracks in the dew-laden grass. All around
 
 The grass shrank into the mud as they climbed the first hundred feet of the trail. Ancient granite began to break the surface, pimpled with pits of rainwater from the evening before, dark under the ever-growing shadow of the canopy. The trail zig-zagged like an earthen skyscraper, gaining tens of feet with each double-back. Andy tripped on a decaying root sprawling out from a “zag” corner, sending methane-scented wood chips down onto the “zig” below. Every so often a squirrel darted up a tree in the distance.
 
-\~\~\~
+~~~
 
 After only fifteen minutes of zippering up the mini-mountain, Rachael paused at an elbow and grabbed the water bottle out of her bag.
 
@@ -62,7 +62,7 @@ She trotted over and gave Andy a peck on the lips.
 
 He sighed.
 
-\~\~\~
+~~~
 
 Mid-way up the mountain, Rachael was dragging her feet.
 
@@ -86,7 +86,7 @@ She rounded a corner and to put one zig of elevation between them. “I’ll be 
 
 Andy gave up on catching her and sat on a rock beside the trail. His scrawny legs itched from gettin whacked by a tree branch earlier. He cupped his dirt-stained hands over his eyes and exhaled into his palms.
 
-\~\~\~
+~~~
 
 The couple trekked the last quarter in silence. At this height, cars weren’t so much ants as they were mice, racing in a paved maze in the distance. You could still hear their seventy-mile-an-hour whoosh if you listened carefully, which annoyed Andy. The sky bore no clouds to block the sun, which illuminated the trees and lakes with bright greens and flickering blues.
 
@@ -94,7 +94,7 @@ Andy took a meditation class once. It taught him how to listen to his own mind a
 
 Rachael spent the silence wondering what the plants thought of this excursion. *When plants invade a human home, we usually kill them*. But she reconsidered---maybe plants aren’t as petty as humans. *Surely not.* She smiled.
 
-\~\~\~
+~~~
 
 At last, the leaves cleared to reveal a steep cone of meadow grass patched with dirt, winding up to a rocky summit with a mailbox poking out the top.
 
@@ -172,7 +172,7 @@ Andy’s scorn relented and he gave her a kiss.
 
 He started off into the clearing. Rachael stood by, still as the trees surrounding her.
 
-\~\~\~
+~~~
 
 Andy pulled himself over the last few rocks and collapsed on the summit. He smiled as he caught his breath, soaking in the undisturbed sunlight.
 
@@ -180,7 +180,7 @@ When he got up, he walked over to the mailbox and opened it. A dozen postcards l
 
 *Greetings from Capitol Hill! We don’t do too many hikes, but this one sure was a wild ride!*
 
-\- *Andy and Rachael*
+*- Andy and Rachael*
 
 He slid the card into the mailbox and closed it.
 
