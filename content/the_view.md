@@ -6,7 +6,7 @@ Mailbox peak is a grueling one-mile hike east of Seattle. Laid flat, it would ta
 
 Their four-door Sudan pulled into the parking lot 10am on Sunday, at the start of April. Rachael made sure to pull the e-brake and lock all the doors as the two climbed out of the car, double-water-bottled mini-packs strapped to their backs.
 
-“Wow, couldn’t have asked for a better day!” Andy said as Rachel took a swig of water. “Here, I’ll get that for you.” He put her water bottle back in the backpack.
+“Wow, couldn’t have asked for a better day!” Andy said as Rachael took a swig of water. “Here, I’ll get that for you.” He put her water bottle back in the backpack.
 
 “Thanks, babe. It is gorgeous out. I can smell the new life in the air.” She stuck her nose up, high enough to meet Andy’s shoulders.
 
@@ -22,13 +22,13 @@ The grass shrank into the mud as they climbed the first hundred feet of the trai
 
 ~~~
 
-After only fifteen minutes of zippering up the mini-mountain, Rachel paused at an elbow and grabbed the water bottle out of her bag.
+After only fifteen minutes of zippering up the mini-mountain, Rachael paused at an elbow and grabbed the water bottle out of her bag.
 
 “Phew, Brad wasn’t kidding, this is brutal,” she said between heavy breaths.
 
 “Yeah, jeez, but it’s a good kind of tired, eh?” Andy sat on the boulder beside her and took the next swig. “Really gets the blood flowing!”
 
-Rachel wandered over to the other side of the “zag” to inspect a berry-laden bush.
+Rachael wandered over to the other side of the “zag” to inspect a berry-laden bush.
 
 Damn, too red.
 
@@ -64,13 +64,13 @@ He sighed.
 
 ~~~
 
-Mid-way up the mountain, Rachel was dragging her feet.
+Mid-way up the mountain, Rachael was dragging her feet.
 
 “Everything OK, babe?” Andy asked.
 
 “Of course, just tired.” She stayed fixated on the terrain.
 
-Andy paused and looked up at Rachel as she kicked pebbles off the trail.
+Andy paused and looked up at Rachael as she kicked pebbles off the trail.
 
 “You know I can tell when something’s up.”
 
@@ -92,7 +92,7 @@ The couple trekked the last quarter in silence. At this height, cars weren’t s
 
 Andy took a meditation class once. It taught him how to listen to his own mind as it thought, which it turned out takes a tremendous amount of focus. The strenuous hike made it hard to focus.
 
-Rachel spent the silence wondering what the plants thought of this excursion. When plants invade a human home, we usually kill them. But she reconsidered—maybe plants aren’t as petty as humans. Surely not. She smiled.
+Rachael spent the silence wondering what the plants thought of this excursion. When plants invade a human home, we usually kill them. But she reconsidered—maybe plants aren’t as petty as humans. Surely not. She smiled.
 
 ~~~
 
@@ -100,7 +100,7 @@ At last, the leaves cleared to reveal a steep cone of meadow grass patched with 
 
 “Wow, that’s all that’s left, huh?” Andy said, shading his eyes.
 
-“Guess so.” Rachel looked into the trees behind them.
+“Guess so.” Rachael looked into the trees behind them.
 
 “You ready?”
 
@@ -120,7 +120,7 @@ Andy rubbed her back.
 
 “You can take your windbreaker off and put on some sunscreen.”
 
-Rachel pulled back and kissed him.
+Rachael pulled back and kissed him.
 
 “You know I love you, Andy.”
 
@@ -138,7 +138,7 @@ Andy closed his eyes.
 
 She looked away.
 
-“Rachel, I,” he searched for the words, “You’ve been like this for a while. I know something’s not right. But I can’t help or do better or say the right things if you don’t tell me what you’re feeling.”
+“Rachael, I,” he searched for the words, “You’ve been like this for a while. I know something’s not right. But I can’t help or do better or say the right things if you don’t tell me what you’re feeling.”
 
 She was silent.
 
@@ -156,7 +156,7 @@ She was silent.
 
 Andy took a couple steps toward the hill.
 
-“I love you too, Rachel. But I’m going to the top. I’ll meet you in the car.”
+“I love you too, Rachael. But I’m going to the top. I’ll meet you in the car.”
 
 He started toward the climb, but got a tap on the shoulder.
 
@@ -170,7 +170,7 @@ Andy’s scorn relented and he gave her a kiss.
 
 “Thank you, babe.”
 
-He started off into the clearing. Rachel stood by, still as the trees surrounding her.
+He started off into the clearing. Rachael stood by, still as the trees surrounding her.
 
 ~~~
 
@@ -179,13 +179,13 @@ Andy pulled himself over the last few rocks and collapsed on the summit. He smil
 When he got up, he walked over to the mailbox and opened it. A dozen postcards lined the inside, postmarked from all different states, with ink bleeding down their fronts. Andy reached into his back pocket and pulled out a yellow postcard with a picture of their home covering the first two-thirds.
 
 Greetings from Capitol Hill! We don’t do too many hikes, but this one sure was a wild ride!
-- Andy and Rachel
+- Andy and Rachael
 
 He slid the card into the mailbox and closed it.
 
 He walked over to the edge of the summit and took in the view. The cars were ants now, and he couldn’t hear them. He took a long breath through his nose and reveled in the mountain air. From here, he could see everything: nearby farms, Mount Rainier, even the Space Needle if he looked past the haze. The world was a lot bigger from high up.
 
-His thoughts wandered. He walked back through his day, to this morning at the breakfast table, to waking up next to Rachel. He jumped back to two years ago, when he was single and getting drunk on Thursdays with strangers. He watched the faces of past relationships whiz by, all the joys and hardships, all the sex and tensions. Up here, he could see how rich his life had been, and how boundless he could be if he chose.
+His thoughts wandered. He walked back through his day, to this morning at the breakfast table, to waking up next to Rachael. He jumped back to two years ago, when he was single and getting drunk on Thursdays with strangers. He watched the faces of past relationships whiz by, all the joys and hardships, all the sex and tensions. Up here, he could see how rich his life had been, and how boundless he could be if he chose.
 
 He reached for his ear and pulled the lilac to his nose. It smelled beautifully. But he could only remember the scent of three of four other flowers—was this lilac so much better? Countless other species hid in the wilderness beneath him. More mountains, too, waited in the distance, some taller, some more treacherous, all of them a new experience waiting to be had. Just a morning’s journey away.
 
