@@ -10,10 +10,22 @@
                 "isDefault": true,
                 "kind": "build"
             },
-            "command": "cargo build",
+            "command": "cmake --build .",
             "options": {
-                "cwd": "${workspaceFolder}/server",
+                "cwd": "${workspaceFolder}/annotate-server/build"
             }
+        },
+        {
+            "label": "run",
+            "type": "shell",
+            "dependsOn": [
+                "build"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/annotate-server/build"
+            },
+            "command": "annotate-server",
+            "problemMatcher": []
         }
     ]
 }
