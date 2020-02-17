@@ -1,0 +1,6 @@
+[submodule "server/mongoose-cpp"]
+	path = server/mongoose-cpp
+	url = https://github.com/Gregwar/mongoose-cpp.git
+[submodule "server/mongoose"]
+	path = server/mongoose
+	url = https://github.com/cesanta/mongoose.git
