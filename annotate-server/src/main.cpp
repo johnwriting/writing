@@ -1,8 +1,4 @@
-#ifdef _MSC_VER
-#include <windows.h>
-#else
 #include <unistd.h>
-#endif
 #include <stdlib.h>
 #include <signal.h>
 #include <mongoose/Server.h>
@@ -35,10 +31,6 @@ int main()
 
     while (1)
     {
-#ifdef WIN32
-        Sleep(10000);
-#else
         sleep(10);
-#endif
     }
 }
