@@ -44,9 +44,9 @@ His hit gets cut off by a coughing fit and he blows the smoke into her face.
 
 “Oh, christ I’m sorry, \*cough\* \*cough\* I don’t \*cough\* do this a lot.” She hands him the beer back to calm his throat.
 
-“Mmm,” she says, her eyelids drooped halfway, “’s a good party, man.” She shuffles closer.
+They stand there quietly for a few minutes, looking up the street, looking up at the stars, studying all the junk in the neighbor’s back yard.
 
-They stand there quietly for a few minutes, looking up the street, looking up at the stars, studying all the junk in the neighbor’s back yard. 
+“Mmm,” she says, her eyelids drooped halfway, “’s a good party, man.” She shuffles closer.
 
 Sophie, the girl, has never been to something like this before. She crossed over from out west, in Utah, where even coffee is off-limits. Her few degenerate friends managed to find weed every once in a while, but they never had a whole house to themselves.
 
