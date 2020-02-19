@@ -9,6 +9,10 @@
             font-family: 'Palatino', Times, serif;
         }
 
+        #container {
+            margin: 2em
+        }
+
         h1 {
             color: black;
             margin-left: 40px;
@@ -21,12 +25,14 @@
     </style>
 </head>
 
-<h1>John Writing</h1>
+<div id="container">
+    <h1>John Writing</h1>
 
-<ul>
-    {% for piece in pieces: %}
-        <li><a href="{{piece.html_path}}">{{piece.title}}</a></li>
-    {% endfor %}
-</ul>
+    <ul>
+        {% for piece in pieces: %}
+            <li><a href="{{piece.html_path}}">{{piece.title}}</a></li>
+        {% endfor %}
+    </ul>
+</div>
 
 </html>
