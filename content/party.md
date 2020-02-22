@@ -42,9 +42,9 @@ Eh, why not? The Rolling Rock is a powerful negotiator.
 
 His hit gets cut off by a coughing fit and he blows the smoke into her face.
 
-“Oh, christ I’m sorry, \*cough\* \*cough\* I don’t \*cough\* do this a lot.” She hands him the beer back to calm his throat.
+“Oh, christ I’m sorry, \*cough\* \*cough\* I don’t \*cough\* do this a lot.” She hands him the beer to calm his throat.
 
-They stand there quietly for a few minutes, looking up the street, looking up at the stars, studying all the junk in the neighbor’s back yard.
+They stand there quietly for a few minutes, looking down the street, looking up at the stars, studying all the junk in the neighbor’s back yard.
 
 “Mmm,” she says, her eyelids drooped halfway, “’s a good party, man.” She shuffles closer.
 
@@ -68,11 +68,13 @@ It’s not on her birth certificate, but she likes the way it sounds. And his ha
 
 ~~~
 
-The shuttle runs all night long. Big and blue, lined with grey seats daily cleaned of vomit and takeout. Jack and Sophia sit in the back so they can watch the traffic behind them and make out every once in a while. She’s still a little pretty. Decently pretty, even, under the fluorescent lights. They hold hands for the last five minutes of the ride, and she rests her really-quite-pretty face on his shoulder. Sophia wakes as the shuttle stops, and they hop out into the city square.
+The shuttle runs all night long. Big and blue, lined with grey seats cleaned daily of vomit and takeout. Jack and Sophia sit in the back so they can watch the traffic behind them and make out every few minutes. She’s still a little pretty. Decently pretty, even, under the fluorescent lights. They hold hands for the last five minutes of the ride, and she rests her really-quite-pretty face on his shoulder. 
 
-“Wait,” Jack says as she starts toward the burrito stand. “I’ve got a better idea. I’ll be back in a second.” Before she can respond, Jack heads the other direction.
+Sophia wakes as the shuttle stops, and they hop out into the city square.
 
-Sophia grabs her arms in the nearly-winter air, cursing herself for not taking one of his sweatshirts before they left. This boy is a little crazy, for sure, but fun, too. Nobody was like this back in Utah.
+“Wait,” Jack says as she starts toward the burrito stand, “I’ve got a better idea. I’ll be back in a second."
+
+Sophia grabs her arms in the nearly-winter air, cursing herself for not taking one of his sweatshirts before they left. This boy is a little crazy, sure, but he's fun as hell. Nobody was like this back in Utah.
 
 Jack rushes back with a six pack of Rolling Rock.
 
@@ -86,7 +88,7 @@ They chase burrito with shitty beer sitting on the cold sidewalk cement. Jack’
 
 Jack looks at her the way her first boyfriend used to, before he moved away.
 
-“Sorry to hear,” he slurs with half a burrito-mouth, “I’m happy Boston’s not that way.” He swallows the beans and rice. “You know I thought tonight was winding down before you walked onto my balcony.” His face turns serious. “And before you were there I was bitching to myself about how college kids talk a big game about having a good time, but aren’t really having a good time, ya know?” He takes another sip. “But I gotta say, I’m having a good time.”
+“Sorry to hear,” he slurs through half a burrito-mouth, “I’m glad Boston’s not that way.” He swallows the beans and rice. “You know I thought tonight was winding down before you walked onto my balcony.” His face turns serious. “And before you were there I was bitching to myself about how college kids talk a big game about having a good time, but aren’t really having a good time, ya know?” He takes another sip. “But I gotta say, I’m having a good time.”
 
 She smiles and holds his arm.
 
@@ -94,7 +96,7 @@ She smiles and holds his arm.
 
 ~~~
 
-At 5 am, the streets are empty. Sophia and Jack rock their arms together, linked at the bottom, taking small, tired steps in the blue darkness of dawn. This is *life* he thinks, *this is what it’s all about*. He hasn’t thought about class or any dumb shit like that since he saw her tonight. He’s an impulsive romancer, he’s a player, he’s a movie star. If he weren’t so tired he’d make up a song on the spot and serenade her accompanied by the serene silence of the sunrise. *Wow, did I just make that up*? He wonders, reciting the poem in his head.
+At 5 am, the streets are empty. Sophia and Jack rock their arms together, linked at the bottom, taking small, tired steps in the blue darkness of dawn. This is *life* he thinks, *this is what it’s all about*. He hasn’t thought about class or any dumb shit like that since he saw her tonight. He’s an impulsive romancer, a player, a movie star. If he weren’t so tired he’d make up a song on the spot and serenade her accompanied by the serene silence of the sunrise. *Wow, did I just make that up*? He wonders, reciting the poem in his head.
 
 They’re halfway home.
 
@@ -104,14 +106,10 @@ The wooden-slat bench marks the entrance of a small park.
 
 “Sure.”
 
-The couple collapse onto the bench and entangle themselves together. Sophia’s head is face-up in his lap, quickly fading to sleep. She’s the prettiest girl he’s ever seen.
+The couple collapse onto the bench and entangle themselves together. Sophia is face-up in his lap, quickly fading to sleep. She’s the prettiest girl he’s ever seen.
 
-Slowly, an orange glow begins to paint the trees in the distance. Clouds burn soft amber, and the cityscape in front of them glows to life. Jack kicks his leg up a bit, but she doesn’t wake up. Better to let her rest, he decides.
+An orange glow paints the trees in the distance. Clouds burn soft amber, and the cityscape glows to life. Jack kicks his leg up a bit, but she's fast asleep. He runs his hand down her torso and grabs the zipper on his jacket, pulling it up to meet her chin. Her hair smells like flowers. He sits back and rests his elbow on her side.
 
-He runs his hand down her torso and grabs the zipper on his jacket, pulling it up to meet her neck. He sits back and rests his elbow on her side.
-
-*I will remember this moment for the rest of my life*, he thinks. 
-
-He sets the beer down beside them, closes his eyes, and drifts away.
+*What a beautiful morning*, he thinks, falling asleep to birdsong with his first love in his lap.
 
 
